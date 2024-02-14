@@ -1,0 +1,27 @@
+{
+  "showLineNumber": true,
+  "lineWrap": false,
+  "spellcheck": true,
+  "useTab": false,
+  "tabSize": 2,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "attachmentFolderPath": "./attachments",
+  "strictLineBreaks": true,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "autoPairMarkdown": false,
+  "newFileLocation": "current",
+  "showInlineTitle": false,
+  "spellcheckLanguages": [
+    "en-US"
+  ],
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  }
+}

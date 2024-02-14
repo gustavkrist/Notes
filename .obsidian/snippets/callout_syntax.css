@@ -1,0 +1,64 @@
+.markdown-source-view .callout pre code span.keyword {
+  color: var(--cm-keyword);
+}
+
+.markdown-source-view .callout pre code span.class-name {
+  color: var(--cm-def);
+}
+
+.markdown-source-view .callout pre code span.class {
+  color: var(--cm-qualifier);
+}
+
+.markdown-source-view .callout pre code span.function {
+  color: var(--cm-def);
+}
+
+.markdown-source-view .callout pre code span.punctuation {
+  color: var(--cm-foreground-color);
+}
+
+.markdown-source-view .callout pre code span.operator {
+  color: var(--cm-operator);
+  background: transparent;
+}
+
+.markdown-source-view .callout pre code span.entity {
+  color: var(--cm-attribute);
+}
+
+.markdown-source-view .callout pre code span.parameter {
+  color: var(--cm-property);
+}
+
+.markdown-source-view .callout pre code span.property {
+  color: var(--cm-property);
+}
+
+.markdown-source-view .callout pre code span.important {
+  color: var(--cm-error-bg);
+}
+
+.markdown-source-view .callout pre code span.attr-name {
+  color: var(--cm-tag);
+}
+
+.markdown-source-view .callout pre code span.attr-value {
+  color: var(--cm-string);
+}
+
+.markdown-source-view .callout pre code span.builtin {
+  color: var(--cm-builtin);
+}
+
+.markdown-source-view .callout pre code span.string {
+  color: var(--cm-string);
+}
+
+.markdown-source-view .callout pre code span.number {
+  color: var(--cm-number);
+}
+
+.markdown-source-view .callout pre code span.unit {
+  color: var(--cm-number);
+}

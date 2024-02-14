@@ -1,0 +1,153 @@
+:root {
+  /* Polar Night */
+  --nord0: #2E3440; /* black */
+  --nord1: #3B4252; /* dark grey */
+  --nord2: #434C5E;
+  --nord3: #4C566A; /* grey */
+
+    /* Snow Storm */
+  --nord4: #D8DEE9; /* grey */
+  --nord5: #E5E9F0; /* off white */
+  --nord6: #ECEFF4; /* white */
+
+    /* Frost */
+  --nord7: #8FBCBB; /* moss green */
+  --nord8: #88C0D0; /* ice blue */
+  --nord9: #81A1C1; /* water blue */
+  --nord10: #5E81AC; /* deep blue */
+
+    /* Aurora */
+  --nord11: #BF616A; /* red */
+  --nord12: #D08770; /* orange */
+  --nord13: #EBCB8B; /* yellow */
+  --nord14: #A3BE8C; /* green */
+  --nord15: #B48EAD; /* purple */
+}
+
+.cm-hmd-codeblock.cm-atom {
+  color: var(--nord9) !important;
+}
+.cm-hmd-codeblock.cm-formatting-list.cm-variable-3 {
+  color: var(--nord12) !important;
+}
+
+.cm-hmd-codeblock.cm-keyword {
+  color: var(--nord9) !important;
+}
+.cm-hmd-codeblock.cm-formatting-list.cm-variable-2 {
+  color: var(--nord8) !important;
+}
+
+.cm-hmd-codeblock.cm-url {
+  color: var(--nord7) !important;
+}
+
+.cm-hmd-codeblock.cm-string,
+.cm-hmd-codeblock.cm-hr {
+  color: var(--nord14) !important;
+}
+.cm-hmd-codeblock.cm-string-2 {
+  color: var(--nord7) !important;
+}
+.cm-hmd-codeblock.cm-number {
+  color: var(--nord15) !important;
+}
+.cm-hmd-codeblock.cm-attribute,
+.cm-hmd-codeblock.cm-plus {
+  color: var(--nord10) !important;
+}
+.cm-hmd-codeblock.cm-def {
+  color: var(--nord8) !important;
+}
+.cm-hmd-codeblock.cm-property {
+  color: var(--nord8) !important;
+}
+.cm-hmd-codeblock.cm-variable {
+  color: var(--nord7) !important;
+}
+.cm-hmd-codeblock.cm-operator {
+  color: var(--nord9) !important;
+}
+.cm-hmd-codeblock.cm-meta,
+.cm-hmd-codeblock.cm-bracket {
+  color: var(--nord7) !important;
+}
+.cm-hmd-codeblock.cm-comment {
+  color: var(--nord3) !important;
+  font-style: italic !important;
+}
+.cm-hmd-codeblock.cm-error,
+.cm-hmd-codeblock.cm-minus {
+  color: var(--nord11) !important;
+}
+.cm-hmd-codeblock.cm-link {
+  color: var(--nord14) !important;
+  text-underline-position: under !important;
+}
+.cm-hmd-codeblock.cm-rangeinfo {
+  color: var(--nord12) !important;
+}
+.cm-hmd-codeblock.cm-qualifier,
+.cm-hmd-codeblock.cm-builtin,
+.cm-hmd-codeblock.cm-tag {
+  color: var(--nord8) !important;
+}
+.cm-hmd-codeblock.cm-quote {
+  color: var(--nord15) !important;
+  font-style: italic !important;
+}
+.cm-hmd-codeblock.cm-whitespace::before {
+  color: var(--nord3) !important;
+}
+
+.CodeMirror-code > div > pre > span::after,
+.CodeMirror-line > span::after {
+  color: var(--nord0) !important;
+  opacity: 0.4 !important;
+}
+
+.cm-hmd-codeblock.cm-formatting-code-block {
+  color: var(--nord7) !important;
+}
+
+.cm-math {
+  color: var(--nord8) !important;
+}
+.cm-math.cm-tag {
+   color: var(--nord9) !important;
+}
+.cm-math.cm-error {
+  color: var(--nord11) !important;
+}
+
+.cm-tag {
+  color: var(--nord9) !important;
+}
+.cm-attribute {
+  color: var(--nord10) !important;
+}
+.cm-string {
+  color: var(--nord14) !important;
+}
+
+.token.function {
+  color: var(--nord8) !important;
+}
+.token.keyword {
+  color: var(--nord9) !important;
+}
+.token.tag,
+.token.builtin {
+  color: var(--nord8) !important;
+}
+.token.comment {
+  color: var(--nord3) !important;
+  font-style: italic !important;
+}
+.language-python {
+  color: var(--nord7) !important;
+}
+
+/* .cm-math.cm-tag { */
+/*   color: var(--nord8) !important; */
+/* } */

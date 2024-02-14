@@ -1,0 +1,41 @@
+body:not(.is-popout-window) .view-header,
+body:not(.is-popout-window) .workspace-leaf.mod-active .view-header,
+body:not(.is-popout-window) .workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .view-header {
+  background-color: unset !important;
+}
+body:not(.is-popout-window) .view-actions {
+  background: transparent !important;
+}
+body:not(.is-popout-window) .view-header {
+  background: transparent !important;
+}
+body:not(.is-popout-window) .view-content {
+  background-color: transparent !important;
+}
+body:not(.is-popout-window) .workspace-split.mod-root {
+  background-color: transparent !important;
+}
+body:not(.is-popout-window) .titlebar {
+  background: rgba(59, 66, 82, 0.6) !important;
+}
+body:not(.is-popout-window) .is-translucent.frosted-sidebar:not(.hider-ribbon) .workspace-ribbon.mod-left:after {
+  background: rgba(59, 66, 82, 0.6) !important;
+}
+body:not(.is-popout-window) .workspace-ribbon.side-dock-ribbon.mod-left.is-collapsed {
+  background: rgba(59, 66, 82, 0.6) !important;
+}
+body:not(.is-popout-window) .horizontal-main-container {
+  background-color: rgba(59, 66, 82, 0.6) !important;
+}
+body:not(.is-popout-window) .workspace-tabs::after {
+  background: transparent !important;
+}
+body:not(.is-popout-window) .callout {
+  background-color: rgba(var(--callout-color), 0.1) !important;
+}
+body:not(.is-popout-window) .callout pre[class*="language-"] {
+  background: var(--cm-background-color) !important;
+}
+body:not(.is-popout-window) .markdown-preview-view pre[class*="language-"] code {
+  background: transparent !important;
+}

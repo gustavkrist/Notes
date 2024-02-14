@@ -1,0 +1,55 @@
+.markdown-source-view.mod-cm6:not(.is-readable-line-width) .cm-line {
+  margin-left: 0px !important;
+}
+.markdown-source-view.mod-cm6:not(.is-readable-line-width) .HyperMD-codeblock.HyperMD-codeblock-bg.cm-line {
+  margin-left: 0px !important;
+}
+.markdown-source-view.mod-cm6:not(.is-readable-line-width) .HyperMD-quote.HyperMD-quote-1.cm-line {
+  margin-left: 0px !important;
+}
+.markdown-source-view.mod-cm6:not(.is-readable-line-width) .cm-line.HyperMD-codeblock {
+  margin-left: 0px !important;
+  padding-left: 0px !important;
+}
+.markdown-source-view.mod-cm6:not(.is-readable-line-width) .cm-content .HyperMD-list-line {
+  margin-left: -4px !important;
+}
+.markdown-source-view.mod-cm6:not(.is-readable-line-width) .cm-contentContainer {
+  margin-left: 4em !important;
+}
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .el-h1 {
+  margin-left: 2em !important;
+}
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .el-h2 {
+  margin-left: 2em !important;
+}
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .el-h3 {
+  margin-left: 2em !important;
+}
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .el-h4 {
+  margin-left: 2em !important;
+}
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .el-h5 {
+  margin-left: 2em !important;
+}
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .el-h6 {
+  margin-left: 2em !important;
+}
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .el-p {
+  margin-left: 2em !important;
+}
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .el-div {
+  margin-left: 2em !important;
+}
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .el-ul {
+  margin-left: 2em !important;
+}
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .el-ol {
+  margin-left: 2em !important;
+}
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer .el-pre {
+  margin-left: 2em !important;
+}
+.markdown-reading-view .markdown-preview-view:not(.is-readable-line-width) > .markdown-preview-sizer {
+  margin-left: 3em !important;
+}

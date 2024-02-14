@@ -1,0 +1,11 @@
+mjx-container[jax="CHTML"][display="true"] {
+  text-align: left !important;
+  margin-left: 5em !important;
+}
+mjx-container[jax="CHTML"][display="true"][width="full"] {
+  text-align: left !important;
+  margin-left: 5em !important;
+}
+mjx-table {
+  text-align: left !important;
+}

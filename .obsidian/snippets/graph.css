@@ -1,0 +1,10 @@
+/* .theme-dark .graph-view.color-arrow { color: #5cc863; } */
+/* .theme-dark .graph-view.color-fill-tag { color: #440154;} */
+/* .theme-dark .graph-view.color-fill-attachment { color: #277f8e; } */
+/* .theme-dark .graph-view.color-fill-unresolved { color: #fde725; } */
+/* .theme-dark .graph-view.color-fill { color: var(--background-secondary); } */
+/* .theme-dark .graph-view.color-circle { color: var(--text-normal); } */
+.theme-dark .graph-view.color-line { color: var(--tx3); }
+/* .theme-dark .graph-view.color-text { color: var(--text-normal); } */
+/* .theme-dark .graph-view.color-fill-highlight { color: var(--interactive-accent); } */
+/* .theme-dark .graph-view.color-line-highlight { color: rgb(var(--interactive-accent-rgb)); } */

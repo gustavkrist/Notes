@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "path": "Introduction to Databases/Relational Model (SQL).md",
+      "ctime": 1684066215990
+    },
+    {
+      "type": "file",
+      "path": "Introduction to Databases/SQL Joins.md",
+      "ctime": 1684066215990
+    },
+    {
+      "type": "file",
+      "path": "Introduction to Databases/SQL Triggers & Transactions.md",
+      "ctime": 1684066215990
+    },
+    {
+      "type": "file",
+      "path": "Introduction to Databases/PSQL Functions.md",
+      "ctime": 1684066215990
+    }
+  ]
+}

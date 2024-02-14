@@ -1,0 +1,41 @@
+body:not(.is-popout-window) {
+  .view-header, .workspace-leaf.mod-active .view-header, .workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .view-header {
+    background-color: unset !important;
+  }
+  .view-actions {
+    background: transparent !important;
+  }
+  .view-header {
+    background: transparent !important;
+  }
+  .view-content {
+      background-color: transparent !important;
+  }
+  .workspace-split.mod-root {
+    background-color: transparent !important;
+  }
+  .titlebar {
+    background: rgba(59, 66, 82, 0.6)  !important;
+  }
+  .is-translucent.frosted-sidebar:not(.hider-ribbon) .workspace-ribbon.mod-left:after {
+    background: rgba(59, 66, 82, 0.6)  !important;
+  }
+  .workspace-ribbon.side-dock-ribbon.mod-left.is-collapsed {
+    background: rgba(59, 66, 82, 0.6)  !important;
+  }
+  .horizontal-main-container {
+    background-color: rgba(59, 66, 82, 0.6) !important;
+  }
+  .workspace-tabs::after {
+    background: transparent !important;
+  }
+  .callout {
+    background-color: rgba(var(--callout-color), 0.1) !important;
+  }
+  .callout pre[class*="language-"] {
+    background: var(--cm-background-color) !important;
+  }
+  .markdown-preview-view pre[class*="language-"] code {
+    background: transparent !important;
+  }
+}

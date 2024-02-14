@@ -1,0 +1,12 @@
+.theme-dark span[src$="#invert"] {
+  /* background-color: var(--background-primary); */
+  background-color: rgba(46, 51, 63);
+  display: block;
+  width: fit-content;
+  height: fit-content;
+}
+.theme-dark div[src$="#invert"] {
+  background-color: rgba(46, 51, 63) !important;
+  width: fit-content;
+  height: fit-content;
+}
