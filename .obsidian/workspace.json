@@ -11,11 +11,64 @@
             "id": "d008cbd7aa2a2b1a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Functional Programming/ADT.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2ff593b40dec0935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Programming/ADT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "111c78a820663d68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Programming/Builtin Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac369e545c9253ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Programming/Modules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15538ee03f60a508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Programming/Memory Model.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -89,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Functional Programming/Memory Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Functional Programming/Memory Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Functional Programming/Memory Model.md"
+              }
             }
           },
           {
@@ -176,8 +233,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07fdb56f5280b85a",
+  "active": "15538ee03f60a508",
   "lastOpenFiles": [
+    "Bachelor/Meeting notes 2-9-2024.md",
+    "Functional Programming/Memory Model.md",
+    "Bachelor.md",
+    "Bachelor",
+    "Functional Programming/Modules.md",
+    "Snippets.md",
+    "Functional Programming/Builtin Types.md",
+    "Functional Programming/ADT.md",
+    "Functional Programming/attachments/Pasted image 20240228082722.png",
+    "Functional Programming/attachments",
+    "Functional Programming/Sets.md",
+    "Functional Programming/Maps.md",
+    "Functional Programming",
     "notes_old/Machine Learning/Exercises/attachments/ex11_5.xcf",
     "notes_old/Machine Learning/Exercises/attachments/ex11_4.xcf",
     "notes_old/Machine Learning/Exercises/attachments/ex11_3.xcf",
@@ -192,10 +262,8 @@
     "notes_old/Machine Learning/Exercises/attachments/Pasted image 20221004122441.png",
     "notes_old/Machine Learning/Exercises/attachments/0PH6NOZ0O-ex3_3.png",
     "notes_old/Security and Privacy/attachments/Pasted image 20230922123425.png",
-    "notes_old/Security and Privacy/attachments/Pasted image 20230915132012.png",
     "notes_old/Network Analysis/exports/TA Presentation.pdf",
     "notes_old/Machine Learning/attachments/lecture_17.pdf",
-    "notes_old/Machine Learning/Exercises/attachments",
     "notes_old/Machine Learning/Exercises/Exercise 8.md",
     "notes_old/Machine Learning/Exercises/Exercise 18.md",
     "notes_old/Machine Learning/Exercises/Exercise 11.md",
@@ -211,18 +279,7 @@
     "notes_old/Machine Learning/Exam/Decision theory - principles for building good machinelearning models.md",
     "notes_old/Machine Learning/Exam/Design and evaluation of machine learning experiments.md",
     "notes_old/Machine Learning/Exam/Clustering methods.md",
-    "notes_old/Introduction to Databases/attachments/W09-JoinExample1-NestedLoops.pptx",
-    "notes_old/Introduction to Databases/attachments/W09-JoinExample3-Merge.pptx",
-    "notes_old/Introduction to Databases/attachments/W09-JoinExample4-Hash.pptx",
     "notes_old/Introduction to Databases/Exercises/Exercise 7 - Storage, Multicores, and OS.md",
-    "notes_old/Introduction to Databases/Exercises/Exercise 7 - Normalization.md",
-    "notes_old/Security and Privacy/Web Security Exploits.md",
-    "notes_old/Security and Privacy/OSINT.md",
-    "notes_old/Security and Privacy/Terminology.md",
-    "notes_old/Security and Privacy/Cryptography.md",
-    "notes_old/Security and Privacy/Access Control.md",
-    "notes_old/Network Analysis/TA Presentation.md",
-    "notes_old/Network Analysis/Spreading Processes.md",
-    "notes_old/Network Analysis/Random Graph Creation.md"
+    "notes_old/Introduction to Databases/Exercises/Exercise 7 - Normalization.md"
   ]
 }

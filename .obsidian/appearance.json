@@ -3,13 +3,13 @@
   "translucency": true,
   "monospaceFontFamily": "Fira Code",
   "enabledCssSnippets": [
-    "callout_syntax",
     "print",
     "graph",
     "img_background",
     "left_align_math",
     "cursor",
-    "italic_comments"
+    "italic_comments",
+    "callout_syntax"
   ],
   "baseFontSize": 22,
   "theme": "obsidian",

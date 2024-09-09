@@ -37,5 +37,6 @@
 
     // Code block triggers
     {trigger: "py`", replacement: "```python\n$0\n```", options: "tA"},
+    {trigger: "fs`", replacement: "```fsharp\n$0\n```", options: "tA"},
     {trigger: "sql`", replacement: "```SQL\n$0\n```", options: "tA"},
 ```
