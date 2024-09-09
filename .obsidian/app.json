@@ -14,9 +14,7 @@
   "autoPairMarkdown": false,
   "newFileLocation": "current",
   "showInlineTitle": false,
-  "spellcheckLanguages": [
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
