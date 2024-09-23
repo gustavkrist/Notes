@@ -12,6 +12,8 @@ From https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests
 | 50.0–30.0    | College            | Difficult to read.                                                      |     |
 | 30.0–10.0    | College graduate   | Very difficult to read. Best understood by university graduates.        |     |
 | 10.0–0.0     | Professional       | Extremely difficult to read. Best understood by university graduates.   |     |
+|              |                    |                                                                         |     |
+|              |                    |                                                                         |     |
 
 ## French
 
@@ -30,6 +32,7 @@ Tool and score interpretations found on https://www.recherchecliniquepariscentre
 | 70 to 80       | Fairly easy      | 6th         |
 | 80 to 90       | Easy             | 5th         |
 | 90 to 100      | Very easy        | 4th         |
+|                |                  |             |
 Peer-reviewed papers on readability in French
 - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0010576
 - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0018484

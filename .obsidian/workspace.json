@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "2ff593b40dec0935",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functional Programming/ADT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "111c78a820663d68",
             "type": "leaf",
             "state": {
@@ -61,18 +49,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bachelor/Meeting notes 2-9-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7653214d4a54a2ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Bachelor/FK thresholds.md",
                 "mode": "source",
                 "source": false
@@ -80,7 +56,7 @@
             }
           },
           {
-            "id": "901af9193180c710",
+            "id": "272d2b9f209e55a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,12 +68,24 @@
             }
           },
           {
-            "id": "5fc7574853ae9aa9",
+            "id": "c9cda7ee6a7765ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Bachelor/Meeting notes 9-9-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d6ae94efae3b9c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meeting Notes 23-09-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bachelor/Datasets.md",
+                "file": "Meeting Notes 23-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bachelor/Datasets.md",
+                "file": "Meeting Notes 23-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bachelor/Datasets.md"
+                "file": "Meeting Notes 23-09-2024.md"
               }
             }
           },
@@ -255,8 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,21 +256,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "901af9193180c710",
+  "active": "5d6ae94efae3b9c6",
   "lastOpenFiles": [
-    "Bachelor/attachments/Pasted image 20240909122901.png",
-    "Bachelor/attachments",
+    "Meeting Notes 23-09-2024.md",
+    "Bachelor/Meeting notes 9-9-2024.md",
     "Bachelor/FK thresholds.md",
     "Bachelor/Datasets.md",
-    "Bachelor/Meeting notes 9-9-2024.md",
-    "Bachelor/Meeting notes 2-9-2024.md",
-    "Snippets.md",
-    "Functional Programming/Memory Model.md",
-    "Bachelor.md",
-    "Bachelor",
     "Functional Programming/Modules.md",
     "Functional Programming/Builtin Types.md",
     "Functional Programming/ADT.md",
+    "Functional Programming/Memory Model.md",
+    "Bachelor/attachments/Pasted image 20240909122901.png",
+    "Bachelor/attachments",
+    "Bachelor/Meeting notes 2-9-2024.md",
+    "Bachelor.md",
+    "Bachelor",
+    "Snippets.md",
     "Functional Programming/attachments/Pasted image 20240228082722.png",
     "Functional Programming/attachments",
     "Functional Programming/Sets.md",
@@ -302,7 +290,6 @@
     "notes_old/Machine Learning/Exercises/attachments/Pasted image 20221004123454.png",
     "notes_old/Machine Learning/Exercises/attachments/Pasted image 20221004122441.png",
     "notes_old/Machine Learning/Exercises/attachments/0PH6NOZ0O-ex3_3.png",
-    "notes_old/Security and Privacy/attachments/Pasted image 20230922123425.png",
     "notes_old/Network Analysis/exports/TA Presentation.pdf",
     "notes_old/Machine Learning/Exercises/Exercise 8.md",
     "notes_old/Machine Learning/Exercises/Exercise 18.md",
