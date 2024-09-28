@@ -14,7 +14,7 @@ From [https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests](ht
 | 10.0–0.0     | Professional       | Extremely difficult to read. Best understood by university graduates.   |     |
 |              |                    |                                                                         |     |
 |              |                    |                                                                         |     |
-
+|              |                    |                                                                         |     |
 ## French
 
 https://ir.canterbury.ac.nz/server/api/core/bitstreams/17c3b469-aee2-4d77-a394-cd88ceac0ca4/content - Section 2.5

@@ -246,16 +246,17 @@
   },
   "active": "111c78a820663d68",
   "lastOpenFiles": [
+    "Bachelor/Meeting notes 2-9-2024.md",
+    "Bachelor/Meeting notes 9-9-2024.md",
+    "Bachelor/Meeting Notes 23-09-2024.md",
+    "Bachelor/attachments/Pasted image 20240909122901.png",
+    "Bachelor/attachments/Pasted image 20240929002236.png",
+    "Bachelor/FK thresholds.md",
     "Functional Programming/Builtin Types.md",
     "Functional Programming/Modules.md",
     "Bachelor/().md",
-    "Bachelor/FK thresholds.md",
-    "Bachelor/Meeting notes 2-9-2024.md",
-    "Bachelor/Meeting Notes 23-09-2024.md",
     "Bachelor/Datasets.md",
-    "Bachelor/attachments/Pasted image 20240909122901.png",
     "Bachelor/attachments",
-    "Bachelor/Meeting notes 9-9-2024.md",
     "Snippets.md",
     "Functional Programming/Memory Model.md",
     "Bachelor.md",
@@ -278,7 +279,6 @@
     "notes_old/Machine Learning/Exercises/attachments/Pasted image 20221004123842.png",
     "notes_old/Machine Learning/Exercises/attachments/Pasted image 20221004123454.png",
     "notes_old/Machine Learning/Exercises/attachments/Pasted image 20221004122441.png",
-    "notes_old/Machine Learning/Exercises/attachments/0PH6NOZ0O-ex3_3.png",
     "notes_old/Network Analysis/exports/TA Presentation.pdf",
     "notes_old/Machine Learning/Exercises/Exercise 8.md",
     "notes_old/Machine Learning/Exercises/Exercise 18.md",
@@ -290,7 +290,6 @@
     "notes_old/Machine Learning/Exam/Linear Regression.md",
     "notes_old/Machine Learning/Exam/Logistic or Softmax Regression.md",
     "notes_old/Machine Learning/Exam/Generative models for classification.md",
-    "notes_old/Machine Learning/Exam/Dimensionality Reduction.md",
-    "notes_old/Machine Learning/Exam/Ensemble methods.md"
+    "notes_old/Machine Learning/Exam/Dimensionality Reduction.md"
   ]
 }
